@@ -1,7 +1,7 @@
-# geocoder-model
+# Geocoder-Model
 Used Geocoder to identify the latitude and longitude of a given set of data
 
-# Dependencies
+## Dependencies
 
 ```bash
 $ pip install geopy
